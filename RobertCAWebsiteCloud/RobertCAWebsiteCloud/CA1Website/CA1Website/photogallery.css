@@ -1,0 +1,30 @@
+p 
+{		
+	text-align: center;		
+	color: yellow;	
+	font-size: 2em;	
+}	
+
+body	
+{
+	font-family:sans-serif;
+	font-size:1em;		
+	background-color:green;
+	transition:3s;
+}
+
+ul {
+	text-align: center;	
+}
+
+P 				
+{		
+	text-align:left;
+	margin: 0.5px;
+	color: white;
+	font-size:2em;	
+}				
+
+
+
+

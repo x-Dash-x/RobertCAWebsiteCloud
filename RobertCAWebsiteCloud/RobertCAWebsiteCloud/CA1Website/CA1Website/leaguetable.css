@@ -1,0 +1,68 @@
+body			
+{			
+	font-family: sans-serif;	
+	font-size: 1em;		
+	background-size:cover;
+	background-attachment:fixed;
+	color:green;
+
+}
+main 	
+{
+	background:white ; 
+	font-family: arial; 	
+}	
+
+#header
+{
+	background-color: yellow;	
+	color:green;
+}
+							
+h2 
+{
+	font-size: 3em;	
+	margin:0.5em;
+	text-align:left;
+	color:green;
+	
+}
+
+table
+{
+	th:80%;	
+}
+			
+
+table,th,td
+{
+	border:1px solid green;
+	border-collapse:collapse;
+	opacity:0.95;
+}
+
+
+th, td
+{
+	padding:10px;
+	text-align:center;
+	color: green;
+}
+
+			
+th
+{
+	background-color: green;
+	color: yellow;
+}
+			
+P 				
+{		
+	text-align:left;
+	margin: 0.5px;
+	color: black;
+	font-size:2em;
+	font-family: "Times New Roman", Times, serif;
+}				
+
+			

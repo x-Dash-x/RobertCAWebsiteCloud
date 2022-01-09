@@ -1,0 +1,21 @@
+#head, #links, #address #iframe {
+	display: none
+}				
+h1, h2, h3,h4,h5,h6 {	
+	font-family: sans-serif		
+}
+#sample_image{
+	page-break-before:always;
+	text-align:center
+}
+
+#sample_image img{
+	width:3.5in;
+	height:4.55in
+}
+
+@page{
+	size:8.5in 11.5in portrait;
+	margin: 0.5in
+}
+		

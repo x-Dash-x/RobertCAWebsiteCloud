@@ -1,0 +1,109 @@
+body	
+{		
+	font-family: arial;	
+	font-size: 0.9em;	
+	background-size:cover;			
+	background-attachment:fixed;	
+	color:black;	
+	text-align:center;
+	background-image: url("Boyne19.jpg");
+  }
+
+	
+main 
+{
+	background:green; 
+	font-family: arial, sans-serif, helvetica;
+	width: 1000px;
+	text-align: left;	
+	margin: 0 auto 0 auto;
+	color:black
+}	
+	
+header
+{
+	background-color: yellow;
+	color:black;
+	text-align:center;	
+	width:100%;
+}
+	
+	
+	
+nav	
+{
+	float: center;
+	background-color:white;
+	border-style:outset;
+	text-align:center;
+	
+}
+
+iframe
+{
+	margin-top: 20px;
+	margin-bottom: 30px;		
+	border-radius: 12px;
+	border-radius: 12px;
+	border-radius: 10px;
+	box-shadow: 4px 4px 14px #000;
+	box-shadow: 4px 4px 14px #000;
+	box-shadow: 4px 4px 14px #000;
+	float: center;
+}
+img
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	border-radius: 12px;
+	border-radius: 12px;
+	border-radius: 10px;
+	box-shadow: 4px 4px 14px #000;
+	box-shadow: 4px 4px 14px #000;
+	box-shadow: 4px 4px 14px #000;
+}
+
+h2 
+{
+	font-size: 3em;	
+	letter-spacing: 0.4em;	
+	text-indent: 1em;
+	text-align:center;
+	
+
+}
+	
+h3	
+{
+	font-size: 2.5em;
+	letter-spacing: 0.1em;
+	text-align:center;
+	background: yellow;
+	border-style:outset;
+	transition:4s;
+}
+h3
+{
+	width: 20em;
+	padding-left:1em;
+	text-align:center;
+}
+a:link , a:visited{
+	text-decoration:underline;
+	color:purple;
+	
+}
+
+a:hover , a:active{
+	text-decoration:underline;
+	color:black;
+
+}
+
+p{
+	color:white;
+}
+  
+
+
+

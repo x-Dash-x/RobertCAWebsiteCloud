@@ -1,0 +1,41 @@
+h2{background-color:yellow}
+		
+h3{background-color:yellow}	
+		
+P 				
+{					
+	text-align:left;
+	margin: 0.5px;
+	color: white;
+	font-size:2em;
+	font-family: "Times New Roman", Times, serif;
+}			
+
+address	
+{
+	text-align: center;	
+	font: 0.8em arial;
+	border-top: 0.5em double #9acd32;
+	padding-top: 1em
+}
+
+
+b
+{
+	color: yellow;
+}
+ul {
+	font-size: 1em;
+}
+
+
+
+
+
+marquee{
+	width:100%;
+}
+
+h3{
+	color:#013220;
+}
